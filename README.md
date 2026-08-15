@@ -8,8 +8,8 @@ A polished developer portfolio built with React, Vite, and Tailwind CSS. This re
 
 ## ✨ Live Previews
 
-- Primary demo: ![https://github-portfolio-kashif-hafeez.vercel.app/](https://github-portfolio-kashif-hafeez.vercel.app/)
-- Alternate portfolio: ![https://kashifhafeez-portfolio1.vercel.app/](https://kashifhafeez-portfolio1.vercel.app/)
+- Primary demo: [https://github-portfolio-kashif-hafeez.vercel.app/](https://github-portfolio-kashif-hafeez.vercel.app/)
+- Alternate portfolio: [https://kashifhafeez-portfolio1.vercel.app/](https://kashifhafeez-portfolio1.vercel.app/)
 
 ---
 
