@@ -62,7 +62,7 @@ Then open the local URL shown by Vite in your browser.
 
 ### Connect with Kashif
 
-[![Email](https://img.shields.io/badge/Email-kashifkhan117401%40gmail.com-red?style=flat-square&logo=gmail&logoColor=white)](mailto:kashifkhan117401@gmail.com)
+[![Email](https://img.shields.io/badge/Email-kashif.hafeez.dev%40gmail.com-red?style=flat-square&logo=gmail&logoColor=white)](mailto:kashif.hafeez.dev@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=flat-square&logo=vercel&logoColor=white)](https://kashifhafeez-portfolio1.vercel.app/)
 [![Live Demo](https://img.shields.io/badge/Live%20Site-Open-brightgreen?style=flat-square&logo=github&logoColor=white)](https://github-portfolio-kashif-hafez.vercel.app/)
 [![ORCID](https://img.shields.io/badge/ORCID-Profile-green?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0009-0002-5604-3264)
